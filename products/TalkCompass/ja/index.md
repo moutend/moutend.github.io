@@ -1,5 +1,5 @@
 ---
-title: Talk Compass
+title: 音声コンパス
 description: 東西南北を声で知らせるコンパスアプリ
 icon: /products/TalkCompass/images/icon.png
 layout: product-ja
