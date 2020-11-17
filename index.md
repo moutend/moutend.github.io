@@ -5,7 +5,7 @@ layout: home
 
 I built these products as a solo creator.
 
-- [Talk Compass (iOS App)](https://moutend.github.io/products/TalkCompass/)
+- [Talk Compass (iOS App)](https://moutend.github.io/products/TalkCompass/en/)
 - [Audio Signal Phase Inversion (Web App)](https://moutend.github.io/PhaseInversion/)
 - [TQ Audio VST3 / AU plugins](https://tqaudio.github.io/)
 
