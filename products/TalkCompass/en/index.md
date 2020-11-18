@@ -12,6 +12,11 @@ This compass app lets you know that cardinal directions and ordinal directions b
 
 Coming soon!
 
+## Privacy Policy
+
+1. This application does not collect any personal information about the users.
+2. By using this application, you agree to the privacy policy.
+
 ## Contact
 
 If you have any problems, please contact via email. Launch Talk Compass app, and then tap the buttons following order: Settings → About This App → Open Mail App.
