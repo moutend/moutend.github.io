@@ -8,9 +8,7 @@ layout: product-ja
 
 このアプリは東西南北とその中間の方位を音声でお知らせします。読み上げの速度と音量は自由に調整できます。
 
-## インストール
-
-Coming soon!
+[![AppStoreからダウンロード](/products/TalkCompass/images/appstore_jp.svg)](https://apps.apple.com/us/app/talk-compass/id1540530352)
 
 ## 個人情報の取り扱いについて
 

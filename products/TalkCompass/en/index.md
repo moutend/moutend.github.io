@@ -8,9 +8,7 @@ layout: product-en
 
 This compass app lets you know that cardinal directions and ordinal directions by voice. You can adjust speaking rate, volume and sound effects.
 
-## Install
-
-Coming soon!
+[![Download on the AppStore](/products/TalkCompass/images/appstore_us.svg)](https://apps.apple.com/us/app/talk-compass/id1540530352)
 
 ## Privacy Policy
 
