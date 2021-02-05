@@ -10,7 +10,7 @@ layout: product-ja
 
 近日リリース予定です。しばらくお待ちください。
 
-[![AppStoreからダウンロード](/products/TalkCompass/images/appstore_jp.svg)]()
+[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/レーダー地図/id1552097407)
 
 ## 個人情報の取り扱いについて
 
