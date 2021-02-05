@@ -1,7 +1,7 @@
 ---
 title: レーダー地図
 description: 半径を指定して周辺を探索する地図アプリ
-icon: /products/RadarMapp/images/icon.png
+icon: /products/RadarMap/images/icon.png
 layout: product-ja
 ---
 ## このアプリについて
