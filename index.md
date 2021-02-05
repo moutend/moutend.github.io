@@ -5,8 +5,11 @@ layout: home
 
 I built these products as a solo creator.
 
-- [レーダー地図 (iOS App)](https://moutend.github.io/products/RadarMap/ja/)
-- [Talk Compass (iOS App)](https://moutend.github.io/products/TalkCompass/en/)
+- レーダー地図 (iOS App)
+  - [日本語](https://moutend.github.io/products/RadarMap/ja/)
+- 音声コンパス (iOS App)
+    - [日本語](https://moutend.github.io/products/TalkCompass/ja/)
+    - [English](https://moutend.github.io/products/TalkCompass/en/)
 - [Audio Signal Phase Inversion (Web App)](https://moutend.github.io/PhaseInversion/)
 - [TQ Audio VST3 / AU plugins](https://tqaudio.github.io/)
 
