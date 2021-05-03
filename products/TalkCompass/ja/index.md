@@ -8,7 +8,7 @@ layout: product-ja
 
 このアプリは東西南北とその中間の方位を音声でお知らせします。読み上げの速度と音量は自由に調整できます。
 
-[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/音声コンパス/id1540530352)
+[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/%E9%9F%B3%E5%A3%B0%E3%82%B3%E3%83%B3%E3%83%91%E3%82%B9/id1540530352)
 
 ## 個人情報の取り扱いについて
 

@@ -10,7 +10,7 @@ layout: product-ja
 
 近日リリース予定です。しばらくお待ちください。
 
-[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/レーダー地図/id1552097407)
+[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E5%9C%B0%E5%9B%B3/id1552097407)
 
 ## 個人情報の取り扱いについて
 
