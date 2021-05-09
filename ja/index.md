@@ -25,6 +25,6 @@ Yoshiyuki Koyanagiと申します。2017年からフルタイムのソフトウ�
 
 私は視覚に障害があります。ビデオ通話アプリを使うことは可能ですが、連絡手段としてはメールのほうが好みです。
 
-##連絡先
+## 連絡先
 
 `Yoshiyuki Koyanagi <moutend@gmail.com>`
