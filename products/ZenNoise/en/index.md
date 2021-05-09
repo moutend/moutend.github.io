@@ -1,7 +1,7 @@
 ---
 title: "Zen Noise"
 description: "High Quality Noise Player App"
-icon: /products/ZenNoise/images/Icon.svg
+icon: /products/ZenNoise/images/Icon.png
 layout: product-en
 ---
 
@@ -17,6 +17,14 @@ Coming Soon
 
 1. This application does not collect any personal information about the users.
 2. By using this application, you agree to the privacy policy.
+
+## Advertisement
+
+1. This application displays a banner advertisement at the top of the screen.
+2. This application uses Google AdMob for advertising.
+3. Please refer to the following page for Google AdMob privacy policy.
+
+[Advertising – Privacy & Terms – Google](https://policies.google.com/technologies/ads?hl=en)
 
 ## Technical Specifications
 
