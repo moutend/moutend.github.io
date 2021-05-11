@@ -1,7 +1,7 @@
 ---
 title: "Zen Noise"
 description: 高音質なノイズ再生アプリ
-icon: /products/ZenNoise/images/Icon.png
+icon: /products/ZenNoise/images/AppIcon.png
 layout: product-ja
 ---
 

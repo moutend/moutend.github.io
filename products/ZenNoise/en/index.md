@@ -1,7 +1,7 @@
 ---
 title: "Zen Noise"
 description: "High Quality Noise Player App"
-icon: /products/ZenNoise/images/Icon.png
+icon: /products/ZenNoise/images/AppIcon.png
 layout: product-en
 ---
 

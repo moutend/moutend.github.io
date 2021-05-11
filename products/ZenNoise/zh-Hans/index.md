@@ -1,7 +1,7 @@
 ---
 title: "Zen Noise"
 description: "高质量的噪音播放器应用程序"
-icon: /products/ZenNoise/images/Icon.png
+icon: /products/ZenNoise/images/AppIcon.png
 layout: product-zh-Hans
 ---
 
