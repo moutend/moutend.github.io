@@ -7,7 +7,7 @@ layout: home-ja
 
 ### iOSアプリ
 
-- [Zen Noise](https://moutend.github.io/products/ZenNoise/en/)
+- [Zen Noise](https://moutend.github.io/products/ZenNoise/ja/)
 - [レーダー地図](https://moutend.github.io/products/ZenNoise/ja/)
 - [音声コンパス](https://moutend.github.io/products/TalkCompass/ja/)
 
