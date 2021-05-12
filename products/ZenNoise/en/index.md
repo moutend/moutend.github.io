@@ -5,11 +5,11 @@ icon: /products/ZenNoise/images/AppIcon.png
 layout: product-en
 ---
 
-[![Download on the AppStore](/images/appstore_us.svg)]()
+[![Download on the AppStore](/images/appstore_us.svg)](https://apps.apple.com/us/app/zen-noise/id1566647727)
 
 ## About This App
 
-Zen Noise is the application that plays white noise, pink noise, and brownian noise. These noises are good for background music when you need to improve your concentration or meditation. Zen Noise also supports USB audio interfaces connected via Camera Connection Kit. You can use Zen Noise to test your audio equipment.
+Zen Noise is an application that plays white noise, pink noise, and brownian noise. These noises are good for background music when you need to improve your concentration or meditation. Zen Noise also supports USB audio interfaces connected through Camera Connection Kit. You can use Zen Noise to test your audio equipment.
 
 Coming Soon
 
