@@ -11,8 +11,6 @@ layout: product-en
 
 Zen Noise is an application that plays white noise, pink noise, and brownian noise. These noises are good for background music when you need to improve your concentration or meditation. Zen Noise also supports USB audio interfaces connected through Camera Connection Kit. You can use Zen Noise to test your audio equipment.
 
-Coming Soon
-
 ## Privacy Policy
 
 1. This application does not collect any personal information about the users.
