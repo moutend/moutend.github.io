@@ -5,13 +5,12 @@ icon: /products/ZenNoise/images/AppIcon.png
 layout: product-zh-Hant
 ---
 
-[![Download on the AppStore](/images/appstore_us.svg)]()
+- Hong Kong → [![Download on the AppStore](/images/AppStoreHKTW.svg)](https://apps.apple.com/hk/app/zen-noise/id1566647727)
+- Taiwan → [![Download on the AppStore](/images/AppStoreHKTW.svg)](https://apps.apple.com/tw/app/zen-noise/id1566647727)
 
 ## 關于此應用程序
 
 Zen Noise是播放白噪聲、粉紅噪聲和布朗噪聲的應用程序。當你需要提高注意力或冥想時，這些噪音很適合做背景音樂。Zen Noise還支持通過相機連接套件連接的USB音頻接口。你可以用Zen Noise來測試你的音頻設備。
-
-Coming Soon
 
 ## 隱私政策
 

@@ -4,11 +4,12 @@ description: The accessible compass app for iOS devices
 icon: /products/TalkCompass/images/icon.png
 layout: product-en
 ---
+
+[![Download on the AppStore](/images/AppStoreUS.svg)](https://apps.apple.com/us/app/talk-compass/id1540530352)
+
 ## About This App
 
 This compass app lets you know that cardinal directions and ordinal directions by voice. You can adjust speaking rate, volume and sound effects.
-
-[![Download on the AppStore](/images/appstore_us.svg)](https://apps.apple.com/us/app/talk-compass/id1540530352)
 
 ## Privacy Policy
 

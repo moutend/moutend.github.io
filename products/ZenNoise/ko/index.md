@@ -5,13 +5,11 @@ icon: /products/ZenNoise/images/AppIcon.png
 layout: product-ko
 ---
 
-[![Download on the AppStore](/images/appstore_us.svg)]()
+[![Download on the AppStore](/images/AppStoreKR.svg)](https://apps.apple.com/kr/app/zen-noise/id1566647727)
 
 ## 이 앱에 대해
 
 Zen Noise는 화이트 노이즈, 핑크 노이즈 및 브라운 노이즈를 재생하는 응용 프로그램입니다. 이 소음은 집중력이나 명상을 향상시켜야 할 때 배경 음악에 좋습니다. Zen Noise는 카메라 연결 키트를 통해 연결된 USB 오디오 인터페이스도 지원합니다. Zen Noise를 사용하여 오디오 장비를 테스트 할 수 있습니다.
-
-Coming Soon
 
 ## 개인 정보 정책
 

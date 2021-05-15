@@ -5,7 +5,7 @@ icon: /products/ZenNoise/images/AppIcon.png
 layout: product-ja
 ---
 
-[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/zen-noise/id1566647727)
+[![Download on the AppStore](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/zen-noise/id1566647727)
 
 ## このアプリについて
 

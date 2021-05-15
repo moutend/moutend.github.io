@@ -5,7 +5,7 @@ icon: /products/ZenNoise/images/AppIcon.png
 layout: product-en
 ---
 
-[![Download on the AppStore](/images/appstore_us.svg)](https://apps.apple.com/us/app/zen-noise/id1566647727)
+[![Download on the AppStore](/images/AppStoreUS.svg)](https://apps.apple.com/us/app/zen-noise/id1566647727)
 
 ## About This App
 

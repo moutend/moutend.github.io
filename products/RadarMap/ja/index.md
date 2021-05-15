@@ -4,13 +4,12 @@ description: 半径を指定して周辺を探索する地図アプリ
 icon: /products/RadarMap/images/icon.png
 layout: product-ja
 ---
+
+[![Download on the AppStore](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E5%9C%B0%E5%9B%B3/id1552097407)
+
 ## このアプリについて
 
 半径を指定して、その圏内にある項目を表示するための地図アプリです。視覚に障害のある方でも操作しやすいようVoiceOverに最適化されています。
-
-近日リリース予定です。しばらくお待ちください。
-
-[![AppStoreからダウンロード](/images/appstore_jp.svg)](https://apps.apple.com/jp/app/%E3%83%AC%E3%83%BC%E3%83%80%E3%83%BC%E5%9C%B0%E5%9B%B3/id1552097407)
 
 ## 個人情報の取り扱いについて
 
