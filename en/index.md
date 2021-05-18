@@ -18,12 +18,13 @@ I built these products as a solo creator.
 
 - [TQ Audio VST3 / AU plugins](https://tqaudio.github.io/)
 
-## Profile
+## Introduction
 
-Thank you for visiting my profile page. I'm Yoshiyuki Koyanagi, a full-time software engineer since 2017. My job is designing and implementing web APIs.
+Thank you for visiting my profile page. I'm Yoshiyuki Koyanagi, a full-time software engineer since 2017. My job is designing and implementing web APIs with Golang.
 
-I'm visually impaired. I can use video calling apps, but I prefer email as a communication tool.
+I'm visually impaired. I can use video calling apps such as Zoom or Google Meet, but I prefer email as a communication tool.
 
 ## Contact
 
-`Yoshiyuki Koyanagi <moutend@gmail.com>`
+- Mail→`moutend@gmail.com`
+- twitter→[@moutend](https://twitter.com/moutend)
