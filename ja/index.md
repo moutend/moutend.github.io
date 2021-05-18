@@ -8,7 +8,7 @@ layout: home-ja
 ### iOSアプリ
 
 - [Zen Noise](https://moutend.github.io/products/ZenNoise/ja/)
-- [レーダー地図](https://moutend.github.io/products/ZenNoise/ja/)
+- [レーダー地図](https://moutend.github.io/products/RadarMap/ja/)
 - [音声コンパス](https://moutend.github.io/products/TalkCompass/ja/)
 
 ### Web アプリ
@@ -33,5 +33,5 @@ Yoshiyuki Koyanagiと申します。2017年からフルタイムのソフトウ�
 
 ## 連絡先
 
-- メール→`Yoshiyuki Koyanagi <moutend@gmail.com>`
+- メール→`moutend@gmail.com`
 - twitter→[@moutend](https://twitter.com/moutend)
