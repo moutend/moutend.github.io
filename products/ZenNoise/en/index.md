@@ -30,7 +30,7 @@ Zen Noise is an application that plays white noise, pink noise, and brownian noi
 - Maximum Playback Sample Rate ... 1536 kHz
 - Minimum Output Channel ... 1
 - Maximum Output Channel ... 16
-- Wave Generation Bit Depth ... 32 Bit Float
+- Wave Generation Bit Depth ... 64 Bit Float
 
 ### Known Issues
 
