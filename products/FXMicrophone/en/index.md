@@ -9,7 +9,12 @@ layout: product-en
 
 ## About This App
 
-The Karaoke Booth is a voice recorder app for karaoke lovers. You can record clear and emotional vocals by adjusting delay and reverb effects.
+The FX Microphone is a voice recorder app for karaoke lovers. You can record clear and emotional vocals by adjusting delay and reverb effects.
+
+## Privacy Policy
+
+1. This application does never collect any personal data.
+2. By using this application, you agree to the privacy policy.
 
 ## Developer
 
