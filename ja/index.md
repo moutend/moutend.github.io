@@ -3,10 +3,11 @@ layout: home-ja
 ---
 ## 製作物
 
-以下、個人で開発したものを掲載しています。
+以下は個人で製作したものです。
 
 ### iOSアプリ
 
+- [FX Microphone](https://moutend.github.io/products/FXMicrophone/ja/)
 - [Zen Noise](https://moutend.github.io/products/ZenNoise/ja/)
 - [レーダー地図](https://moutend.github.io/products/RadarMap/ja/)
 - [音声コンパス](https://moutend.github.io/products/TalkCompass/ja/)
@@ -33,9 +34,9 @@ Yoshiyuki Koyanagiと申します。2017年から[株式会社Abby](https://www.
 
 個人の活動としては趣味でiOSアプリの開発をしています。その他、Go言語のライブラリを作ったりVSTプラグインを作ったりしています。
 
-私は視覚に障害（網膜色素変性症による視野欠損）があります。そのためPCやスマホはスクリーンリーダーの音声読み上げを頼りに操作しています。ZoomやGoogle Meetなどのビデオ通話サービスを使うことは可能ですが、連絡手段としてはメールが好みです。
+私は視覚に障害（網膜色素変性症による視野欠損）があります。そのためPCやスマホはスクリーンリーダーの音声読み上げを頼りに操作しています。Zoomなどのビデオ通話を使うことは可能ですが、twitterのDMかメールであればすぐに反応できます。
 
 ## 連絡先
 
-- メール→`moutend@gmail.com`
 - twitter→[@moutend](https://twitter.com/moutend)
+- メール→`moutend@gmail.com`
