@@ -30,7 +30,7 @@ layout: home-ja
 
 ## 自己紹介
 
-Yoshiyuki Koyanagiと申します。2017年から[株式会社Abby](https://www.abby.co.jp)でフルタイムのソフトウェアエンジニアをしています。仕事では主にGo言語を利用したWeb APIの設計・実装を担当しています。
+Yoshiyuki Koyanagiと申します。2017年から[株式会社Abby](https://www.abby.co.jp)でエンジニアをしています。業務では主にGo言語を利用したWeb APIの設計・実装・運用を担当しています。
 
 個人の活動としては趣味でiOSアプリの開発をしています。その他、Go言語のライブラリを作ったりVSTプラグインを作ったりしています。
 
