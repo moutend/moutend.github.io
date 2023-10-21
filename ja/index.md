@@ -5,7 +5,7 @@ layout: home-ja
 
 以下は個人で製作したものです。
 
-### iOSアプリ
+### iPhoneアプリ
 
 - [FX Microphone](https://moutend.github.io/products/FXMicrophone/ja/)
 - [Zen Noise](https://moutend.github.io/products/ZenNoise/ja/)
@@ -24,19 +24,20 @@ layout: home-ja
 
 - [zenn.dev/moutend](https://zenn.dev/moutend)
 
-以前はQiitaにいくつか記事を投稿していましたが、運営方針に賛同できないためアカウントごと削除しました。
-
-※[github.com/moutend/qiita](https://github.com/moutend/qiita)に記事のmarkdownファイルは残してあります。
-
 ## 自己紹介
 
-Yoshiyuki Koyanagiと申します。2017年から[株式会社Abby](https://www.abby.co.jp)でエンジニアをしています。業務では主にGo言語を利用したWeb APIの設計・実装・運用を担当しています。
+Yoshiyuki Koyanagiと申します。趣味として気まぐれでiPhoneアプリの開発をしています。その他、Go言語のライブラリを作ったりVSTプラグインを作ったりしています。
 
-趣味としてiOSアプリの開発をしています。その他、Go言語のライブラリを作ったりVSTプラグインを作ったりしています。
+私は視覚に障害があり、ほとんど目が見えません。スマートフォンやPCはスクリーンリーダー（画面読み上げソフトウェア）を利用して操作しています。GoogleミートやZoomなどのビデオ通話を使うことは可能ですが、X（旧twitter）のDMかメールであればすぐに反応できます。
 
-私は視覚に障害（網膜色素変性症による視野欠損）があります。PCやスマホはスクリーンリーダーの音声読み上げを頼りに操作しています。Zoomなどのビデオ通話を使うことは可能ですが、twitterのDMかメールであればすぐに反応できます。
+## 職歴
+
+業務では主にサーバーサイドのアプリケーション設計・開発・運用を担当しています。詳細について知りたい場合はご連絡ください。
+
+- 2017年10月から2023年7月 株式会社Abby
+- 2023年10月から現在 株式会社microCMS
 
 ## 連絡先
 
-- twitter→[@moutend](https://twitter.com/moutend)
+- X（旧twitter）→[@moutend](https://twitter.com/moutend)
 - メール→`moutend@gmail.com`
