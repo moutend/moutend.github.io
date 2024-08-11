@@ -3,22 +3,15 @@ layout: home-ja
 ---
 ## 製作物
 
-以下は個人で製作したものです。
+以下はk個人で製作したものです。
 
 ### iPhoneアプリ
 
+- [タッチで読み上げ都道府県](https://moutend.github.io/products/TouchSpeechPrefecture/ja/)
 - [FX Microphone](https://moutend.github.io/products/FXMicrophone/ja/)
 - [Zen Noise](https://moutend.github.io/products/ZenNoise/ja/)
 - [レーダー地図](https://moutend.github.io/products/RadarMap/ja/)
 - [音声コンパス](https://moutend.github.io/products/TalkCompass/ja/)
-
-### Web アプリ
-
-- [音声信号の位相反転](https://moutend.github.io/PhaseInversion/)
-
-### VST3プラグイン
-
-- [TQ Audio VST3 / AU plugins](https://tqaudio.github.io/)
 
 ## 記事
 
@@ -30,10 +23,11 @@ layout: home-ja
 
 ## 職歴
 
-業務ではWebアプリケーションのサーバーサイドについて設計・開発・運用を担当しています。詳細について知りたい場合はご連絡ください。
+Webアプリケーションのサーバーサイド設計・開発・運用を得意としています。詳細についてはメールにてお問合せください。
 
+- 2024年7月から現在 無職
+- 2023年10月から2024年6月 株式会社microCMS
 - 2017年10月から2023年7月 株式会社Abby
-- 2023年10月から現在 株式会社microCMS
 
 ## 連絡先
 
