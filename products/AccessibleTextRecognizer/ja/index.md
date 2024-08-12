@@ -16,6 +16,12 @@ Coming soon!
 
 本アプリケーションは利用者の個人情報を一切収集しません。安心してご利用ください。
 
+## ご意見・ご感想
+
+ご意見やご感想をお待ちしています。不具合の報告なども以下のGoogleフォームにて受け付けています。送信にあたっての注意事項は移動先の画面でご確認ください。
+
+[アプリ「読み上げ文字認識」ご意見・ご要望フォーム](https://docs.google.com/forms/d/e/1FAIpQLSdCym7SIe1vzZT9oqFAV1HQ98DsVxw-antvHPNRS88SG12_zw/viewform?usp=sf_link)
+
 ## 開発者
 
 [Yoshiyuki Koyanagi - GitHub](https://github.com/moutend)
