@@ -4,7 +4,7 @@ description: VoiceOverに特化した文字認識アプリ
 icon: /products/AccessibleTextRecognizer/images/AppIcon.png
 layout: product-ja
 ---
-Coming soon!
+[![Download on the AppStore](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/%E8%AA%AD%E3%81%BF%E4%B8%8A%E3%81%92%E6%96%87%E5%AD%97%E8%AA%8D%E8%AD%98/id6627332915)
 
 ## このアプリについて
 
