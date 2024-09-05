@@ -4,7 +4,7 @@ description: ずんだもんの声で棒読みボイスを合成するのだ！
 icon: /products/GikochinaidZundamon/images/AppIcon.png
 layout: product-ja
 ---
-Coming soon!
+[![Download on the AppStore](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/%E3%82%AE%E3%82%B3%E3%83%81%E3%83%8A%E3%82%A4%E3%83%89/id6670439035)
 
 ## このアプリについて
 
