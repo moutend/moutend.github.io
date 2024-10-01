@@ -16,9 +16,9 @@ This application does not collect any personal information from users.
 
 ## Feedback
 
-Your feedback and comments are always welcome. For bug reports and inquiries, you can also use the Google Form below. Please review the important notes on the next screen before submitting.
+Your feedback is always welcome. For bug reports and inquiries, you can also use the Google Form below. Please review the important notes on the next screen before submitting.
 
-[Feedback Form for the 'Sonic Motion' App]()
+[Feedback Form for the 'Sonic Motion' App](https://docs.google.com/forms/d/e/1FAIpQLSf-4l0EPrPw0COkxzXqek04OLlK5hKXaK6Aty36TbI9U-nQhQ/viewform?usp=sf_link)
 
 ## Developer
 
