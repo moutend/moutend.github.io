@@ -4,7 +4,7 @@ description: Experience motion through sound with acceleration, gravity, and rot
 icon: /products/SonicMotion/images/AppIcon.png
 layout: product-en
 ---
-Coming Soon!
+[![Download on the App Store](/images/AppStoreUS.svg)](https://apps.apple.com/jp/app/sonic-motion/id6736360866)
 
 ## About
 
