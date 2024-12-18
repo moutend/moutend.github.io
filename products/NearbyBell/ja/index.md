@@ -4,7 +4,7 @@ description: 視覚障害者の待ち合わせを便利に
 icon: /products/NearbyBell/images/AppIcon.png
 layout: product-ja
 ---
-COMING SOON!
+[![Download on the AppStore](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/%E3%81%99%E3%81%90%E3%81%9D%E3%81%93%E3%83%81%E3%83%A3%E3%82%A4%E3%83%A0/id6739512621)
 
 ## このアプリについて
 
