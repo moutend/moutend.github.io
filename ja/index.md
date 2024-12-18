@@ -7,6 +7,7 @@ layout: home-ja
 
 ### iPhoneアプリ
 
+- [すぐそこチャイム](https://moutend.github.io/products/NearbyBell/ja/)
 - [Sonic Motion](https://moutend.github.io/products/SonicMotion/en/)
 - [ギコチナイド](https://moutend.github.io/products/GikochinaidZundamon/ja/)
 - [読み上げ文字認識](https://moutend.github.io/products/AccessibleTextRecognizer/ja/)
