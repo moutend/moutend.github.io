@@ -7,6 +7,7 @@ layout: home-ja
 
 ### iPhoneアプリ
 
+- [和音道場](https://moutend.github.io/products/ChordDojo/ja/)
 - [すぐそこチャイム](https://moutend.github.io/products/NearbyBell/ja/)
 - [Sonic Motion](https://moutend.github.io/products/SonicMotion/en/)
 - [ギコチナイド](https://moutend.github.io/products/GikochinaidZundamon/ja/)
