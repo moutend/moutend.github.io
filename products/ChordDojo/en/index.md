@@ -4,7 +4,7 @@ description: "Sharpen your chord recognition skills with a fast-paced quiz!"
 icon: /products/ChordDojo/images/AppIcon.png
 layout: product-ja
 ---
-Coming Soon
+[![Download on the App Store](/images/AppStoreUS.svg)](https://apps.apple.com/us/app/chord-dojo/id6742062906)
 
 ## About the App
 

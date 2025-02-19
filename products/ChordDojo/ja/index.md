@@ -4,7 +4,7 @@ description: 早押しクイズで絶対和音感をトレーニング！
 icon: /products/ChordDojo/images/AppIcon.png
 layout: product-ja
 ---
-Coming Soon
+[![Download on the App Store](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/%E5%92%8C%E9%9F%B3%E9%81%93%E5%A0%B4/id6742062906)
 
 ## アプリについて
 
