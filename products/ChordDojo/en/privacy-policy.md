@@ -4,9 +4,7 @@ layout: plain-en
 ---
 ## Summary
 
-<aside>
 💡 This document is reference information translated by DeepL. [The original version is in Japanese](https://moutend.github.io/products/ChordDojo/ja/privacy-policy.html).
-</aside>
 
 Yoshiyuki Koyanagi has established the following Personal Information Protection Policy, and by constructing a framework for personal information protection along with a steadfast commitment to its importance, he promotes the safeguarding of personal information.
 
