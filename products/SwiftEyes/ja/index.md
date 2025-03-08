@@ -18,8 +18,8 @@ Coming Soon!
 
 詳細については以下のリンク、またはアプリ内の利用規約とプライバシーポリシーから全文をご確認ください。
 
-- [利用規約]()
-- [プライバシーポリシー]()
+- [利用規約](https://moutend.github.io/products/SwiftEyes/ja/terms-of-service.html)
+- [プライバシーポリシー](https://moutend.github.io/products/SwiftEyes/ja/privacy-policy.html)
 
 本アプリを使用することで、利用規約およびプライバシーポリシーに同意したものとみなします。
 
@@ -27,4 +27,4 @@ Coming Soon!
 
 ご意見ご感想をお待ちしています。不具合の報告なども以下のGoogleフォームにて受け付けています。送信にあたっての注意事項は移動先の画面でご確認ください。
 
-[「スイフトアイ」ご意見・ご感想フォーム]()
+[「スイフトアイ」ご意見・ご感想フォーム](https://docs.google.com/forms/d/e/1FAIpQLSec75XpVnl6Ad8vt0EuaIUHdaXD1HXw6Z-wz8JTspR4erehTw/viewform?usp=header)

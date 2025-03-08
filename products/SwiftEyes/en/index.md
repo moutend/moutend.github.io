@@ -18,8 +18,8 @@ The data used for analysis is not shared with any third parties. After processin
 
 For more details, please read the full Terms of Use and Privacy Policy via the links below or within the app.  
 
-- [Terms of Use]()
-- [Privacy Policy]()
+- [Terms of Service](https://moutend.github.io/products/SwiftEyes/en/terms-of-service.md)
+- [Privacy Policy](https://moutend.github.io/products/SwiftEyes/en/privacy-policy.html)
 
 By using this app, you are deemed to have agreed to the Terms of Use and Privacy Policy.
 
@@ -27,4 +27,4 @@ By using this app, you are deemed to have agreed to the Terms of Use and Privacy
 
 We welcome your feedback and suggestions. For bug reports and other inquiries, please use the Google Form below. Be sure to review the submission guidelines on the next screen before sending your message.
 
-[Swift Eyes App Feedback Form]()
+[Swift Eyes App Feedback Form](https://docs.google.com/forms/d/e/1FAIpQLSdoLmKot6JKojLeA82mOkxv3KDluY2LvMeDaxdinACedSS0pg/viewform?usp=dialog)
