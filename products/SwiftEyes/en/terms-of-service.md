@@ -4,7 +4,7 @@ layout: plain-en
 ---
 ## Overview
 
-💡 This document is reference information translated by ChatGPT O1. [The original version is in Japanese](https://moutend.github.io/products/SwiftEyes/ja/terms-of-service.html).
+💡 This document is reference information translated by ChatGPT. [The original version is in Japanese](https://moutend.github.io/products/SwiftEyes/ja/terms-of-service.html).
 
 - These Terms of Service (hereinafter referred to as the “Terms”) set forth the conditions for using the “SwiftEyes” service (hereinafter referred to as the “Service”), which is developed and operated by an individual, Yoshiyuki Koyanagi (hereinafter referred to as the “Operator”).
 - Before using the Service, all users (hereinafter referred to as “Users”) are requested to read these Terms carefully and agree to them.
