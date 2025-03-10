@@ -4,7 +4,7 @@ description: Image Recognition Apps for the Visually Impaired
 icon: /products/SwiftEyes/images/AppIcon.png
 layout: product-en
 ---
-Coming Soon!
+[![Download on the App Store](/images/AppStoreUS.svg)](https://apps.apple.com/us/app/swift-eyes/id6742831929)
 
 ## About the App
 

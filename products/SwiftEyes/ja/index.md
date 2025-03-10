@@ -4,7 +4,7 @@ description: 視覚障害者のための画像認識アプリ
 icon: /products/SwiftEyes/images/AppIcon.png
 layout: product-ja
 ---
-Coming Soon!
+[![Download on the App Store](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/%E3%82%B9%E3%82%A4%E3%83%95%E3%83%88%E3%82%A2%E3%82%A4/id6742831929)
 
 ## アプリについて
 
