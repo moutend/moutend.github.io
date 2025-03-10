@@ -8,7 +8,9 @@ layout: product-en
 
 ## About the App
 
-Swift Eyes is an image recognition app for the visually impaired. It quickly communicates the contents of images in a chat format.
+Swift Eyes is an AI-powered image recognition app designed to support people with visual impairments. It analyzes images taken with the camera or shared from apps like Photos, and provides a text description of the content. Because it is optimized for the VoiceOver screen reader, it automatically reads the text aloud once the analysis is completed.
+
+Caution: This app provides AI recognition results for reference purposes only and is not intended to replace measures for ensuring personal safety while moving around or to substitute for medical practices. For more details, please refer to the Terms of Use displayed when you launch the app.
 
 ## Terms of Use and Privacy Policy
 
