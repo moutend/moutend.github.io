@@ -4,6 +4,7 @@ layout: plain-ja
 ---
 ## お知らせ一覧
 
+- [2025-04-02 バージョン1.3が公開されました](https://moutend.github.io/products/SwiftEyes/ja/news/20250402.html)
 - [2025-04-01 累計ご利用者数が2,000人を突破しました](https://moutend.github.io/products/SwiftEyes/ja/news/20250401.html)
 - [2025-03-22 バージョン1.2が公開されました](https://moutend.github.io/products/SwiftEyes/ja/news/20250322.html)
 - [2025-03-19 累計ご利用者数が1,000人を突破しました](https://moutend.github.io/products/SwiftEyes/ja/news/20250319.html)
