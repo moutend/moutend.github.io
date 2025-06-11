@@ -6,6 +6,9 @@ layout: plain-en
 
 💡 This document is reference information translated by ChatGPT. [The original version is in Japanese](https://moutend.github.io/products/SwiftEyes/ja/privacy-policy.html).
 
+
+Release date: March 10, 2025
+
 Yoshiyuki Koyanagi has established the following Personal Information Protection Policy, and by constructing a framework for personal information protection along with a steadfast commitment to its importance, he promotes the safeguarding of personal information.
 
 ## Management of Personal Information
