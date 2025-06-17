@@ -2,6 +2,7 @@
 title: News from Swift Eyes
 layout: plain-en
 ---
+- [2025-06-17 Version 2.1 Has Been Released](https://moutend.github.io/products/SwiftEyes/en/news/20250617.html)
 - [2025-06-13 Version 2.0 Has Been Released](https://moutend.github.io/products/SwiftEyes/en/news/20250613.html)
 - [2025-05-28 Version 1.5 Has Been Released](https://moutend.github.io/products/SwiftEyes/en/news/20250528.html)
 - [2025-05-12 Version 1.4 Has Been Released](https://moutend.github.io/products/SwiftEyes/en/news/20250512.html)
