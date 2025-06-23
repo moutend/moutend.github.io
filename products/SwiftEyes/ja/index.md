@@ -18,20 +18,26 @@ layout: product-ja
 
 [スイフトアイからのお知らせ](https://moutend.github.io/products/SwiftEyes/ja/news/)
 
+## よくある質問と回答
+
+よくある質問と回答は以下のページにてご確認ください。
+
+- [よくある質問と回答](https://moutend.github.io/products/SwiftEyes/ja/faq.html)
+
 ## 利用規約とプライバシーポリシー
 
-本アプリは画像を解析し、その内容をテキストで説明します。解析のために画像およびテキストデータはサーバーへ送信されます。
-
-解析に使用されたデータが第三者へ共有されることはありません。解析後、サーバー上のデータは速やかに削除されます。
-
-詳細については以下のリンク、またはアプリ内の利用規約とプライバシーポリシーから全文をご確認ください。
+詳細は以下のページにてご確認ください。本アプリを使用することで、利用規約およびプライバシーポリシーに同意したものとみなします。
 
 - [利用規約](https://moutend.github.io/products/SwiftEyes/ja/terms-of-service.html)
 - [プライバシーポリシー](https://moutend.github.io/products/SwiftEyes/ja/privacy-policy.html)
 
-本アプリを使用することで、利用規約およびプライバシーポリシーに同意したものとみなします。
+## 特定商取引法に基づく表示
 
-## 問合せ
+特定商取引法に基づく表示は以下のページにてご確認ください。
+
+- [特定商取引法に基づく表示](https://moutend.github.io/products/SwiftEyes/ja/legal/tokushoho.html)
+
+## お問合せ
 
 ご意見ご感想をお待ちしています。不具合の報告なども以下のGoogleフォームにて受け付けています。送信にあたっての注意事項は移動先の画面でご確認ください。
 
