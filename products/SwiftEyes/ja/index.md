@@ -22,7 +22,7 @@ layout: product-ja
 
 よくある質問と回答は以下のページにてご確認ください。
 
-- [よくある質問と回答](https://moutend.github.io/products/SwiftEyes/ja/faq.html)
+[よくある質問と回答](https://moutend.github.io/products/SwiftEyes/ja/faq.html)
 
 ## 利用規約とプライバシーポリシー
 
@@ -35,7 +35,7 @@ layout: product-ja
 
 特定商取引法に基づく表示は以下のページにてご確認ください。
 
-- [特定商取引法に基づく表示](https://moutend.github.io/products/SwiftEyes/ja/legal/tokushoho.html)
+[特定商取引法に基づく表示](https://moutend.github.io/products/SwiftEyes/ja/legal/tokushoho.html)
 
 ## お問合せ
 
