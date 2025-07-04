@@ -1,6 +1,6 @@
 ---
 title: Swift Eyes
-description: Image Recognition Apps for the Visually Impaired
+description: Image Recognition Apps for the Visually Impaired Users
 icon: /products/SwiftEyes/images/AppIcon.png
 layout: product-en
 ---
@@ -8,22 +8,40 @@ layout: product-en
 
 ## About the App
 
-Swift Eyes is an AI-powered image recognition app designed to support people with visual impairments. It analyzes images taken with the camera or shared from apps like Photos, and provides a text description of the content. Because it is optimized for the VoiceOver screen reader, it automatically reads the text aloud once the analysis is completed.
+Swift Eyes is an iPhone app designed to assist people with visual impairments. It uses AI to analyze images taken with the camera or shared from apps like Photos, and then communicates the contents as text.  
+Because Swift Eyes is optimized for the VoiceOver screen reader, the text is read aloud automatically once the analysis is complete. You can also save the image back to the Photos app with the analysis text embedded as a caption.  
+Once analysis is complete, the image data supplied to the AI is promptly deleted and is never provided to any third party. You can use the service with confidence. For details, please refer to the Terms of Use and Privacy Policy.
 
-Caution: This app provides AI recognition results for reference purposes only and is not intended to replace measures for ensuring personal safety while moving around or to substitute for medical practices. For more details, please refer to the Terms of Use displayed when you launch the app.
+Note: The AI recognition results provided by this app are for reference only. They do not replace measures to ensure personal safety while moving, medical actions, or similar activities. For details, please review the Terms of Use and Privacy Policy.
+
+## Pricing
+
+Swift Eyes is available in both free and paid editions. The differences are:
+
+* **Free edition:** After every third image analysis, you will experience a waiting period.
+* **Paid edition:** Unlimited image analyses with no waiting time.
+
+The waiting-time restriction is the only difference; all other features are identical. The paid edition is offered as a Premium Plan for $1.99 per month.  
+If you enjoy the app, please consider subscribing. You can subscribe at any time by opening the app and selecting **“Subscribe to Premium Plan”** in the settings menu.  
+
+## App Announcements
+
+A list of announcements from the app is available here:
+
+[News from Swift Eyes](https://moutend.github.io/products/SwiftEyes/en/news/)
+
+## Frequently Asked Questions
+
+For common questions and answers, see:
+
+[Frequently Asked Questions](https://moutend.github.io/products/SwiftEyes/en/faq.html)
 
 ## Terms of Use and Privacy Policy
 
-This app analyzes images and provides a text description of their content. Images and text data are sent to a server for processing.  
-
-The data used for analysis is not shared with any third parties. After processing, the data is promptly deleted from the server.  
-
-For more details, please read the full Terms of Use and Privacy Policy via the links below or within the app.  
+By using this app, you agree to the Terms of Use and Privacy Policy. Please review them at:
 
 - [Terms of Service](https://moutend.github.io/products/SwiftEyes/en/terms-of-service.md)
 - [Privacy Policy](https://moutend.github.io/products/SwiftEyes/en/privacy-policy.html)
-
-By using this app, you are deemed to have agreed to the Terms of Use and Privacy Policy.
 
 ## Contact Us
 
