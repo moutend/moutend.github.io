@@ -6,6 +6,7 @@ layout: plain-ja
 
 ## お知らせ一覧
 
+- [2025-08-25 （お詫び）2025年8月24日に発生したシステム停止について](https://moutend.github.io/products/SwiftEyes/ja/news/20250825.html)
 - [2025-07-31 バージョン2.4を公開しました](https://moutend.github.io/products/SwiftEyes/ja/news/20250731.html)
 - [2025-07-07 バージョン2.3を公開しました](https://moutend.github.io/products/SwiftEyes/ja/news/20250707.html)
 - [2025-06-27 バージョン2.2を公開しました](https://moutend.github.io/products/SwiftEyes/ja/news/20250627.html)
