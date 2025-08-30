@@ -2,6 +2,7 @@
 title: News from Swift Eyes
 layout: plain-en
 ---
+- [2025-09-01 Version 2.5 Has Been Released](https://moutend.github.io/products/SwiftEyes/en/news/20250901.html)
 - [2025-08-25 (Fixed) The System Outage on August 24, 2025](https://moutend.github.io/products/SwiftEyes/en/news/20250825.html)
 - [2025-07-31 Version 2.4 Has Been Released](https://moutend.github.io/products/SwiftEyes/en/news/20250731.html)
 - [2025-07-07 Release of Version 2.3 and Introduction of the Paid Edition](https://moutend.github.io/products/SwiftEyes/en/news/20250707.html)
