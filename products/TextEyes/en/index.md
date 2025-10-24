@@ -4,7 +4,7 @@ description: A visual-assistance app that quickly extracts text from images and 
 icon: /products/TextEyes/images/AppIcon.png
 layout: product-en
 ---
-Coming Soon!
+[![Download on the App Store](/images/AppStoreUS.svg)](https://apps.apple.com/us/app/text-eyes/id6754208158)
 
 ## About the App
 

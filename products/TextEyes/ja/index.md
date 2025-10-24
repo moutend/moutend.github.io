@@ -4,7 +4,7 @@ description: 画像から文字を素早く抽出、VoiceOver対応の視覚支�
 icon: /products/TextEyes/images/AppIcon.png
 layout: product-ja
 ---
-Coming Soon!
+[![Download on the App Store](/images/AppStoreJP.svg)](https://apps.apple.com/jp/app/text-eyes/id6754208158)
 
 ## このアプリについて
 
