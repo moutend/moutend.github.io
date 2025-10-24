@@ -1,19 +1,14 @@
 ---
 layout: home-ja
 ---
-## 製作物
+## iOSアプリ
 
-以下は個人で製作したソフトウェアの一覧です。
-
-### iPhoneアプリ
-
+- [テキストアイ](https://moutend.github.io/products/TextEyes/ja/)
 - [スイフトアイ](https://moutend.github.io/products/SwiftEyes/ja/)
 - [和音道場](https://moutend.github.io/products/ChordDojo/ja/)
 - [すぐそこチャイム](https://moutend.github.io/products/NearbyBell/ja/)
 - [Sonic Motion](https://moutend.github.io/products/SonicMotion/en/)
 - [ギコチナイド](https://moutend.github.io/products/GikochinaidZundamon/ja/)
-- [読み上げ文字認識](https://moutend.github.io/products/AccessibleTextRecognizer/ja/)
-- [タッチで読み上げ都道府県](https://moutend.github.io/products/TouchSpeechPrefecture/ja/)
 - [FX Microphone](https://moutend.github.io/products/FXMicrophone/ja/)
 - [Zen Noise](https://moutend.github.io/products/ZenNoise/ja/)
 - [レーダー地図](https://moutend.github.io/products/RadarMap/ja/)
@@ -21,21 +16,19 @@ layout: home-ja
 
 ## 記事
 
-ソフトウェア開発に関連する記事を投稿しています。
-
 - [zenn.dev/moutend](https://zenn.dev/moutend)
 
 ## 自己紹介
 
-私は視覚に障害があり、ほとんど目が見えません。スマートフォンやPCはスクリーンリーダー（画面読み上げソフトウェア）を利用して操作しています。GoogleミートやZoomなどのビデオ通話を使うことは可能ですが、X（旧twitter）のDMかメールであればすぐに反応できます。
+私は中途の視覚障害者です。10代後半から徐々に視力が低下し、現在は明暗が区別できる程度です。（網膜色素変性症による視野欠損・身体障害手帳の等級は1級）
+スマートフォンやPCはスクリーンリーダー（画面読み上げソフトウェア）を利用して操作しています。Microsoft TeamsやGoogle Meat、Zoomなどのビデオ通話を使うことは可能ですが、X（旧twitter）のDMかメールであればすぐに反応できます。  
 
 ## 職歴
 
-業務では主にWebアプリケーションのサーバーサイド設計・開発・運用を担当しています。その他、CLIツールの作成など、目が見えなくても対応可能な業務を担当しています。詳細につきましてはメールにてお問合せください。
-
-- 2024年7月から現在 無職
-- 2023年10月から2024年6月 株式会社microCMS
-- 2017年10月から2023年7月 株式会社Abby
+- 2025年4月から現在: 株式会社カオナビ
+- 2024年7月から2025年4月: 無職
+- 2023年10月から2024年6月: 株式会社microCMS
+- 2017年10月から2023年7月: 株式会社Abby
 
 ## 連絡先
 
