@@ -4,7 +4,7 @@ layout: plain-en
 ---
 ## Having Trouble?
 
-This page explains how to resolve common issues you may encounter while using Swift Eyes. If the steps here don’t solve your problem, please contact us through the inquiry form at the bottom of the page.
+This page explains how to resolve common issues you may encounter while using Swift Eye. If the steps here don’t solve your problem, please contact us through the inquiry form at the bottom of the page.
 
 ## Q. Sign-in fails
 
